@@ -2,7 +2,7 @@
 
 This website is create by Node.js & Express.js. Users can search for restaurants by restaurant name or category.If you want to know more information about each restaurant, just click on restaurant picture to display more detailed information. Users can use the icon in the upper left corner to return to the homepage. Hope you can have a good user experience 
 
-![Recording 2023-09-27 at 12 26 10](https://github.com/TheyCallMeAndyBro/restaurantList/assets/133637358/a8578877-2d32-4b39-a875-ddbc4db8f0a5)
+![image](https://github.com/Lan956616/restaurant-list/blob/main/%E6%88%AA%E5%9C%96%202024-03-26%20%E6%99%9A%E4%B8%8A11.25.59.png)
 
 
 ## Features

@@ -1,40 +1,41 @@
-## Introduce
+## 餐廳清單
+## 網頁介紹
 
-This website is create by Node.js & Express.js. Users can search for restaurants by restaurant name or category.If you want to know more information about each restaurant, just click on restaurant picture to display more detailed information. Users can use the icon in the upper left corner to return to the homepage. Hope you can have a good user experience 
+用Node.js和Express.js搭建而成的網頁，可以瀏覽8家精選餐廳的詳細資料，也可透過搜尋功能來篩選出想吃的餐廳。
 
 ![image](https://github.com/Lan956616/restaurant-list/blob/main/%E6%88%AA%E5%9C%96%202024-03-26%20%E6%99%9A%E4%B8%8A11.25.59.png)
 
 
-## Features
+## 網頁特色
 
-- Homepage will display all restaurants
-- You can use search bar to search restaurant by using restaurant name or category
-- Click the restaurant picture will display restaurant detailed information
-- The upper left corner icon can return to the homepage
+- 首頁展示8家精選餐廳
+- 上方搜尋列可以透過關鍵字篩選出餐廳
+- 點選餐廳圖片即可瀏覽餐廳詳細資料
+- 點選左上角圖示即可返回首頁
+- 
+## 執行專案
 
-## Installing
-
-1.Clone the repository
+1.下載專案
 ```
-git clone https://github.com/TheyCallMeAndyBro/restaurantList.git
-```
-
-2.Move to file
-```
-cd restaurantList
+git clone https://github.com/Lan956616/restaurant-list.git
 ```
 
-3.Install npm packages
+2.切換至專案資料夾
+```
+cd restaurant-list
+```
+
+3.安裝npm套件
 ```
 npm install
 ```
 
-4.Launch the website
+4.執行網頁
 ```
-npm start
+npm run start
 ```
 
-5.Stop
+5.暫停執行網頁
 ```
 ctrl +　ｃ
 ```
